@@ -32,3 +32,4 @@ out/
 
 # Windows system files
 Thumbs.db
+.vercel
